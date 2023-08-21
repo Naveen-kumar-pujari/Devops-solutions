@@ -1,2 +1,2 @@
 # Devops-solutions
-Handson experiments
+Handson experiments on devops
